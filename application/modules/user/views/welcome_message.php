@@ -40,7 +40,7 @@
 							</div>
 		  					<img src="assets/img/promo-pattern-bottom.png" class="center-block" alt="Responsive image">
 
-									<a href="#" class="btn btn_green center-block" data-toggle="modal" data-target="#call-back">REGISTRATION</a>
+									<a href="/register" class="btn btn_green center-block" data-toggle="modal" data-target="#call-back">REGISTRATION</a>
 				  				</div>
 	  				</div>
 	  			</div>

@@ -1,7 +1,4 @@
-<html lang="ru">
-	
-<!-- Mirrored from aurum-bank.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Sep 2017 11:24:34 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
 <head>
 	<link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
     <meta charset="utf-8">
@@ -25,7 +22,6 @@
     <![endif]-->
   </head>
 
-  <body>
 	<div class='hidden'>
 		<img src='assets/assets/img/header/yth.png'>
 		<img src='assets/assets/img/header/vkh.png'>
@@ -90,7 +86,7 @@
 										</div>
 			  					</div>
 
-			  					<a href='indexbc14.html?a=home' class="head_logo"></a>
+			  					<a href='' class="head_logo"></a>
 
 			  					<div class="head_right">
 <!--										<div class="musik">
@@ -186,16 +182,16 @@
 												</a>
 											</li>
 												<li>
-												<a href="indexcca3.html?a=signup">
+												<a href="/register">
 													<div class="navbar_btn">
-														<img src="assets/assets/img/left-vens.png" class="left-vens" alt="Responsive image">
+														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>SIGN UP</span>
-														<img src="assets/assets/img/right-vens.png" class="right-vens" alt="Responsive image">
+														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
 											</li>
 											<li>
-												<a href="#" class="always_green" data-toggle="modal" data-target="#call-back">
+												<a href="/login" class="always_green" data-toggle="modal" data-target="#call-back">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>CLIENT LOGIN</span>
@@ -212,3 +208,4 @@
 
 				</div>
 	  	</header>
+		
