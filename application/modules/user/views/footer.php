@@ -25,22 +25,8 @@
 
 							<marquee behavior="scroll" direction="left" scrollamount="5s" id='forex'>
 
-		SITE OPENED: Apr 30, 2015
-		 / DAYS ONLINE: 866
-		 / INVESTED: $ 147368670.83
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		 / LAST UPDATE: Sep 12, 2017
+		  LAST UPDATE: Sep 12, 2017
 		/ INSURANCE FUND: $ 178915233.07 / DDOS Protection: ON / SSL Protection: ON
 
 							</marquee>
@@ -138,7 +124,7 @@
 
 													<img src="assets/img/map-icon.png" alt="Responsive image">													 
 													DUCAN WADI, GULALWADI, MAULANA AZAD ROAD 
-													MUMBAI MAHARASHTRA.
+													MUMBAI MAHARASHTRA.<br>
 													Tel: +16316333409
 
 												</li>
