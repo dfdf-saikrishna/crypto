@@ -74,21 +74,22 @@
 									<div class="inv_box_bg">
 										<div class="inv_box">
 											<div class="title">
-												STABLE
+												BEGINER
 											</div>
 											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
 											<ul class="list-unstyled">
-												<li>Accruals: Mon-Fri</li>
-												<li>Number of accruals: 110</li>
-												<li>Principal return: Yes</li>
-												<li>Referral bonus: 10.00%</li>
+												<li>Investment : <strong>USD 100</strong></li>
+												<li>Daily : <strong>1.25%</strong></li>
+												<li>Total : <strong>137.5%</strong></li>
+												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>10%</strong></li>
 											</ul>
 
 											<div class="persents">
 												<div class="persen_box">
 													Daily												</div>
 												<div class="persen_box">
-													3<span>%</span>
+													1.25<span>%</span>
 												</div>
 												<div class="persen_box">
 													 110 days
@@ -109,94 +110,97 @@
 									<div class="inv_box_bg">
 										<div class="inv_box">
 											<div class="title">
-												STABLE
+												BEGINER PLUS
 											</div>
 											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
 											<ul class="list-unstyled">
-												<li>Accruals: Mon-Fri</li>
-												<li>Number of accruals: 85</li>
-												<li>Principal return: Yes</li>
-												<li>Referral bonus: 10.50%</li>
+												<li>Investment : <strong>USD 1000</strong></li>
+												<li>Daily : <strong>1.5%</strong></li>
+												<li>Total : <strong>157.5%</strong></li>
+												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>11%</strong></li>
 											</ul>
 
 											<div class="persents">
 												<div class="persen_box">
 													Daily												</div>
 												<div class="persen_box">
-													3.5<span>%</span>
+													1.5<span>%</span>
+												</div>
+												<div class="persen_box">
+													 105 days
+
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
+																																											
+								
+																					
+										
+																				
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												ADVANCE
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 1500</strong></li>
+												<li>Daily : <strong>1.75%</strong></li>
+												<li>Total : <strong>166.25%</strong></li>
+												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>12%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													1.75<span>%</span>
+												</div>
+												<div class="persen_box">
+													 95 days
+
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
+																																											
+								
+																					
+										
+																				
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												ADVANCE PLUS
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 2500</strong></li>
+												<li>Daily : <strong>2%</strong></li>
+												<li>Total : <strong>170%</strong></li>
+												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>13%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													2<span>%</span>
 												</div>
 												<div class="persen_box">
 													 85 days
-
-												</div>
-											</div>
-
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
-													</div>
-									</div>
-								</div>
-																																											
-								
-																					
-										
-																				
-								<div class="col-md-15">
-									<div class="inv_box_bg">
-										<div class="inv_box">
-											<div class="title">
-												STABLE
-											</div>
-											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
-											<ul class="list-unstyled">
-												<li>Accruals: Mon-Fri</li>
-												<li>Number of accruals: 60</li>
-												<li>Principal return: Yes</li>
-												<li>Referral bonus: 11.00%</li>
-											</ul>
-
-											<div class="persents">
-												<div class="persen_box">
-													Daily												</div>
-												<div class="persen_box">
-													4<span>%</span>
-												</div>
-												<div class="persen_box">
-													 60 days
-
-												</div>
-											</div>
-
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
-													</div>
-									</div>
-								</div>
-																																											
-								
-																					
-										
-																				
-								<div class="col-md-15">
-									<div class="inv_box_bg">
-										<div class="inv_box">
-											<div class="title">
-												STABLE
-											</div>
-											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
-											<ul class="list-unstyled">
-												<li>Accruals: Mon-Fri</li>
-												<li>Number of accruals: 40</li>
-												<li>Principal return: Yes</li>
-												<li>Referral bonus: 12.00%</li>
-											</ul>
-
-											<div class="persents">
-												<div class="persen_box">
-													Daily												</div>
-												<div class="persen_box">
-													4.5<span>%</span>
-												</div>
-												<div class="persen_box">
-													 40 days
 												</div>
 											</div>
 
@@ -339,7 +343,7 @@
 											<img src="assets/img/video-pattern-left.png" class="video-pattern-left" alt="Responsive image">
 											<img src="assets/img/video-pattern-right.png" class="video-pattern-right" alt="Responsive image">
 											<div class="embed-responsive embed-responsive-16by9">
-											  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lgsMp1hflrM?modestbranding=0&amp;showinfo=0&amp;rel=0"></iframe>
+											  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wBYv6rdAdS4?modestbranding=0&amp;showinfo=0&amp;rel=0"></iframe>
 											  
 											</div>
 				  					</div>
