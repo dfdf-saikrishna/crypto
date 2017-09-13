@@ -53,7 +53,8 @@ class CI_Form_validation {
 	 *
 	 * @var object
 	 */
-	protected $CI;
+	//protected $CI;
+	public $CI;
 
 	/**
 	 * Validation data for the current form submission

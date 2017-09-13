@@ -81,7 +81,7 @@
 												<li>Investment : <strong>USD 100</strong></li>
 												<li>Daily : <strong>1.25%</strong></li>
 												<li>Total : <strong>137.5%</strong></li>
-												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>10%</strong></li>
 											</ul>
 
@@ -117,7 +117,7 @@
 												<li>Investment : <strong>USD 1000</strong></li>
 												<li>Daily : <strong>1.5%</strong></li>
 												<li>Total : <strong>157.5%</strong></li>
-												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>11%</strong></li>
 											</ul>
 
@@ -153,7 +153,7 @@
 												<li>Investment : <strong>USD 1500</strong></li>
 												<li>Daily : <strong>1.75%</strong></li>
 												<li>Total : <strong>166.25%</strong></li>
-												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>12%</strong></li>
 											</ul>
 
@@ -189,7 +189,7 @@
 												<li>Investment : <strong>USD 2500</strong></li>
 												<li>Daily : <strong>2%</strong></li>
 												<li>Total : <strong>170%</strong></li>
-												<li>Withdrawl : <strong>DAILY</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>13%</strong></li>
 											</ul>
 
