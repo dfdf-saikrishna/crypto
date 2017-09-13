@@ -129,21 +129,17 @@
 													<img src="assets/img/i-icon.png" alt="Responsive image">
 
 													CRYPTO BANK PVT LTD
-													Company No 10330779
-
+                                                    KRISHNA KUNJ, 527, 
 													<span></span>
 
 												</li>
 
 												<li>
 
-													<img src="assets/img/map-icon.png" alt="Responsive image">
-
-													31 Southampton Row, London, 
-
-													United Kingdom, WC1B 5HJ
-
-													Tel: +442033222276
+													<img src="assets/img/map-icon.png" alt="Responsive image">													 
+													DUCAN WADI, GULALWADI, MAULANA AZAD ROAD 
+													MUMBAI MAHARASHTRA.
+													Tel: +16316333409
 
 												</li>
 
