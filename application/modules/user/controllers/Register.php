@@ -38,6 +38,54 @@ class Register extends MX_Controller {
 		$this->load->view('footer');
 	}
 	
+	public function dashboard()
+	{
+		$this->load->view('header');
+		$this->load->view('dashbaord');
+		$this->load->view('footer');
+	}
+	
+	/*
+     * User login
+     */
+    public function login(){
+        $data = array();
+        if($this->session->userdata('success_msg')){
+            $data['success_msg'] = $this->session->userdata('success_msg');
+            $this->session->unset_userdata('success_msg');
+        }
+        if($this->session->userdata('error_msg')){
+            $data['error_msg'] = $this->session->userdata('error_msg');
+            $this->session->unset_userdata('error_msg');
+        }
+        //if($this->input->post('loginSubmit')){
+            $this->form_validation->set_rules('username', 'Username', 'required');
+            $this->form_validation->set_rules('password', 'password', 'required');
+            if ($this->form_validation->run() == true) {
+                $con['returnType'] = 'single';
+                $con['conditions'] = array(
+                    'username'=>$this->input->post('username'),
+                    'password' => md5($this->input->post('password')),
+                    'status' => '1'
+                );
+                $checkLogin = $this->register_model->getRows($con);
+                if($checkLogin){
+                    $this->session->set_userdata('isUserLoggedIn',TRUE);
+                    $this->session->set_userdata('userId',$checkLogin['id']);
+                    $this->load->view('header');
+					$this->load->view('dashboard', $data);
+					$this->load->view('footer');
+                }else{
+                    $data['error_msg'] = 'Wrong username or password, please try again.';
+                }
+            }
+        //}
+        //load the view
+		$this->load->view('header');
+        $this->load->view('login', $data);
+		$this->load->view('footer');
+    }
+	
 	public function submit(){
          $data = array();
         $userData = array();

@@ -10,16 +10,25 @@
 						<span>Login</span>
 						<img src="/assets/img/title-img-right.png" class="title-img-right" alt="Responsive image">
 						</h2>
+						<?php echo validation_errors(); ?>
+						<?php
+							if(!empty($success_msg)){
+								echo '<p class="statusMsg">'.$success_msg.'</p>';
+							}elseif(!empty($error_msg)){
+								echo '<p class="statusMsg">'.$error_msg.'</p>';
+							}
+						?>
 					</div>
-					<form method="post" onsubmit="return checkform()" name="loginform">
+					<form method="post" action="UserDashboard">
 						<div class="row">
 										<div class="col-xs-60 text-center">
 											
-											<div class="user_form">
+											<div class="reg_form">
 												<div class="form-group">
 													<label>Username:</label>
 													<div data-container="body" data-toggle="popover" data-placement="right" data-content="Please use only Latin letters and numbers" data-original-title="" title="">
-														<input type="text" class="form-control" name="username" value="">
+														<input type="text" class="form-control" name="username" value="<?php echo !empty($user['username'])?$user['username']:''; ?>">
+														<?php echo form_error('username','<span class="help-block">','</span>'); ?>
 													</div>
 												</div>
 												
@@ -28,25 +37,26 @@
 										</div>
 
 										<div class="col-xs-60 text-center">
-											<div class="user_form">
+											<div class="reg_form">
 											<div class="form-group">
 													<label>Password:</label>
 													<div data-container="body" data-toggle="popover" data-placement="right" data-content="Please use at least 8 characters" data-original-title="" title="">
-														<input type="password" name="password" value="" class="form-control">
+														<input type="password" name="password" value="<?php echo !empty($user['password'])?$user['password']:''; ?>" class="form-control">
+														<?php echo form_error('password','<span class="help-block">','</span>'); ?>
 													</div>
 												</div>
 												</div>
 										</div>
 										
 										<div class="col-xs-60 text-center">
-											<input type="submit" value="REGISTRATION" class="btn btn_green text-uppercase">
+											<input type="submit" value="Login" name="loginSubmit" class="btn btn_green text-uppercase">
 										</div>
 									</div>
 
 									<div class="row">
 									<div class="col-xs-20">
 									<div class="col-xs-20 text-right">
-											<a href="#">Forgot password?</a>
+											<!--a href="#">Forgot password?</a-->
 											</div>
 										</div>
 									</div>
