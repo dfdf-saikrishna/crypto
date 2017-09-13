@@ -1550,7 +1550,7 @@ blockquote p {
 	border-bottom: 1px solid #000;
 	padding: 10px 0 10px;
 	min-height: 240px;
-	width: 770px;
+	width: 700px;
 }
 .about_com_text p {
 	margin-bottom: 15px;
@@ -4882,6 +4882,7 @@ textarea {
 	padding-top: 177px;
 	overflow: hidden;
 	height: 664px;
+	background-size:cover;
 }
 h1 {
 	font-family: "ProximaNovaBold";
@@ -4891,7 +4892,7 @@ h1 {
 	line-height: 54px;
 	font-size: 46px;
 	margin: 0;
-	height:109px;
+	height:80px;
 }
 h1 span {
 	font-family: "ProximaNovaRegular";
@@ -5541,3 +5542,95 @@ m, e
 	margin: 0 auto 10px;
 	width: 265px;
 }
+
+/* Home Page Sliding Text Start */
+
+.sentence{
+     color: #222;
+     font-size: 30px;
+     text-align: center;
+	 
+}
+
+/*Vertical Sliding*/
+.slidingVertical{
+	display: block;
+}
+.slidingVertical span h2
+{
+font-size:40px;
+}
+
+.slidingVertical span{
+	animation: topToBottom 12.5s linear infinite 0s;
+	-ms-animation: topToBottom 12.5s linear infinite 0s;
+	-webkit-animation: topToBottom 12.5s linear infinite 0s;
+	opacity: 0;
+	color:#333;
+	font-size:30px;
+	overflow: hidden;
+	position: absolute;
+	text-transform: uppercase;
+	font-family: "ProximaNovaBold";
+    padding: 10px 0 5px;
+    line-height: 54px;
+    font-size: 46px !important;
+    margin: 0;
+    height: 109px;
+	margin-top: -120px;
+    margin-left: -190px;
+  background: -webkit-linear-gradient(#606060, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
+.slidingVertical span:nth-child(2){
+	animation-delay: 2.5s;
+	-ms-animation-delay: 2.5s;
+	-webkit-animation-delay: 2.5s;
+}
+.slidingVertical span:nth-child(3){
+	animation-delay: 5s;
+	-ms-animation-delay: 5s;
+	-webkit-animation-delay: 5s;
+}
+.slidingVertical span:nth-child(4){
+	animation-delay: 7.5s;
+	-ms-animation-delay: 7.5s;
+	-webkit-animation-delay: 7.5s;
+}
+.slidingVertical span:nth-child(5){
+	animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	-webkit-animation-delay: 10s;
+}
+
+/*topToBottom Animation*/
+@-moz-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -moz-transform: translateY(-50px); }
+	10% { opacity: 1; -moz-transform: translateY(0px); }
+	25% { opacity: 1; -moz-transform: translateY(0px); }
+	30% { opacity: 0; -moz-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-webkit-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -webkit-transform: translateY(-50px); }
+	10% { opacity: 1; -webkit-transform: translateY(0px); }
+	25% { opacity: 1; -webkit-transform: translateY(0px); }
+	30% { opacity: 0; -webkit-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-ms-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -ms-transform: translateY(-50px); }
+	10% { opacity: 1; -ms-transform: translateY(0px); }
+	25% { opacity: 1; -ms-transform: translateY(0px); }
+	30% { opacity: 0; -ms-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+/* Home Page Sliding Text END */

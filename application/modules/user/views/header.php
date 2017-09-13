@@ -1,6 +1,6 @@
 
 <head>
-	<link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="http://html-alexweb.ru/">
@@ -117,11 +117,11 @@
 												<a href="/user" class="dropdown-toggle always_orange" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
-														<span>MAIN INFO</span>
+														<span>Home</span>
 														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
-											  <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+											  <!--ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
 											    <li><a href="#"><span>About the Company</span></a></li>
 											    <li><a href="#"><span>News</span></a></li>
 											    <li><a href="#"><span>Legal information</span></a></li>
@@ -130,41 +130,39 @@
 											    <li><a href="#"><span>Agreement</span></a></li>
 											    <li><a href="#"><span>About us in the Media</span></a></li>
 											    <li><a href="#"><span>Jobs</span></a></li>
-											  </ul>
+											  </ul-->
 											</li>
 											<li class='open_nav'>
 												<a href="#" class="dropdown-toggle" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
-														<span>INVESTMENTS</span>
+														<span>COMPANY</span>
 														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
 												<ul class="dropdown-menu" aria-labelledby="dropdownMenu3">
-											    <li><a href="#"><span>Investment offers</span></a></li>
-											    <li><a href="#"><span>Education</span></a></li>
-											    <li><a href="#"><span>Exchangers</span></a></li>
-											    <li><a href="#"><span>FAQ</span></a></li>
+											    <li><a href="/About"><span>About the Company</span></a></li>
+											    <li><a href="/WhoWeAre"><span>Who We Are</span></a></li>
 											  </ul>
 											</li>
 											<li class='open_nav'>
 												<a href="#" class="dropdown-toggle" type="button" id="dropdownMenu4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
-														<span>REPRESENTATIVES</span>
+														<span>INVESTMENT</span>
 														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
-												<ul class="dropdown-menu" aria-labelledby="dropdownMenu4">
+												<!--ul class="dropdown-menu" aria-labelledby="dropdownMenu4">
 											    <li><a href="#"><span>Our Representatives</span></a></li>
 											    <li><a href="#"><span>Become a representative</span></a></li>
 											    <li><a href="#"><span>Affiliate program</span></a></li>
 											    <li><a href="#"><span>Promo materials</span></a></li>
 											    <li><a href="#"><span>Promos and Bonuses</span></a></li>
-											    <!--<li><a href="?a=cust&page=photos_with_site"><span>Photos with the site</span></a></li>-->
+											    <li><a href="?a=cust&page=photos_with_site"><span>Photos with the site</span></a></li>
 											    <li><a href="#"><span>Video testimonials</span></a></li>
 											    <li><a href="#"><span>Customer reviews</span></a></li>
-											  </ul>
+											  </ul-->
 											</li>
 											<li>
 												<a href="#">

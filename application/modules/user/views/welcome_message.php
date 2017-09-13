@@ -1,43 +1,109 @@
+<style>
+.sentence{
+     color: #222;
+     font-size: 30px;
+     text-align: center;
+	 
+}
+
+/*Vertical Sliding*/
+.slidingVertical{
+	display: block;
+}
+.slidingVertical span h2
+{
+font-size:40px;
+}
+
+.slidingVertical span{
+	animation: topToBottom 12.5s linear infinite 0s;
+	-ms-animation: topToBottom 12.5s linear infinite 0s;
+	-webkit-animation: topToBottom 12.5s linear infinite 0s;
+	opacity: 0;
+	color:#333;
+	font-size:30px;
+	overflow: hidden;
+	position: absolute;
+	text-transform: uppercase;
+	font-family: "ProximaNovaBold";
+    padding: 10px 0 5px;
+    line-height: 54px;
+    font-size: 46px !important;
+    margin: 0;
+    height: 109px;
+	margin-top: -120px;
+    margin-left: -180px;
+
+}
+.slidingVertical span:nth-child(2){
+	animation-delay: 2.5s;
+	-ms-animation-delay: 2.5s;
+	-webkit-animation-delay: 2.5s;
+}
+.slidingVertical span:nth-child(3){
+	animation-delay: 5s;
+	-ms-animation-delay: 5s;
+	-webkit-animation-delay: 5s;
+}
+.slidingVertical span:nth-child(4){
+	animation-delay: 7.5s;
+	-ms-animation-delay: 7.5s;
+	-webkit-animation-delay: 7.5s;
+}
+.slidingVertical span:nth-child(5){
+	animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	-webkit-animation-delay: 10s;
+}
+
+/*topToBottom Animation*/
+@-moz-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -moz-transform: translateY(-50px); }
+	10% { opacity: 1; -moz-transform: translateY(0px); }
+	25% { opacity: 1; -moz-transform: translateY(0px); }
+	30% { opacity: 0; -moz-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-webkit-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -webkit-transform: translateY(-50px); }
+	10% { opacity: 1; -webkit-transform: translateY(0px); }
+	25% { opacity: 1; -webkit-transform: translateY(0px); }
+	30% { opacity: 0; -webkit-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-ms-keyframes topToBottom{
+	0% { opacity: 0; }
+	5% { opacity: 0; -ms-transform: translateY(-50px); }
+	10% { opacity: 1; -ms-transform: translateY(0px); }
+	25% { opacity: 1; -ms-transform: translateY(0px); }
+	30% { opacity: 0; -ms-transform: translateY(50px); }
+	80% { opacity: 0; }
+	100% { opacity: 0; }
+}
+</style>
 			<div id="home_promo">
 				<div class="container">
 	  			<div class="row">
 	  				<div class="col-xs-60">
 		  				<div class="promo_caption">
 								<img src="assets/img/promo-pattern-top.png" class="center-block" alt="Responsive image">
-		  					<h1 id=''>
-									we hold great value
-									<span class="text_block">OVER OUR CUSTOMERS</span>
+	
+		  					<h1 id="">
+								<h2 class="sentence">
+									<div class="slidingVertical">
+										<span><h2>high liquidity<br>for your assets</h2></span>
+										<span><h2>an affordable<br>way of Investment</h2></span>
+										<span><h2>a start for <br> new opportunities</h2></span>
+										<span><h2>a reliable partner<br> in your plans</h2></span>
+										<span><h2>its simple to<br>enrich your life</h2></span>
+									</div>
+								</h2>
 		  					</h1>
-							<div id='el8'>
-								<div class='el9 order_1'>
-									high liquidity
-									<span class="text_block">for your assets</span>
-								</div>
-								<div class='el9 order_2'>
-									we hold great value
-									<span class="text_block">over our customers</span>
-								</div>
-								<div class='el9 order_3'>
-									an affordable way
-									<span class="text_block">of enriching your life</span>
-								</div>
-								<div class='el9 order_4'>
-									safety comes first
-									<span class="text_block">before every other thing</span>
-								</div>
-								<div class='el9 order_5'>
-									a reliable partner
-									<span class="text_block">in your plans</span>
-								</div>
-								<div class='el9 order_6'>
-									a start for
-									<span class="text_block">new opportunities</span>
-								</div>
-								<div class='el9 order_7'>
-									it’s simple to
-									<span class="text_block">enrich your life</span>
-								</div>
-							</div>
+							
 		  					<img src="assets/img/promo-pattern-bottom.png" class="center-block" alt="Responsive image">
 
 									<a href="/register" class="btn btn_green center-block" data-toggle="modal" data-target="#call-back">REGISTRATION</a>
@@ -254,7 +320,7 @@ Over the years, we have engaged in profitable market wide hedging on our revenue
 											</p>
 
 											<div class="tools_sign_link">
-												<a href="#">
+												<a href="/About">
 													read more
 													<span>
 														<img src="assets/img/green-arrow.png" alt="Responsive image">
