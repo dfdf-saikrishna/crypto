@@ -174,6 +174,15 @@
 												</a>
 											</li>
 												<li>
+												<?php if($this->session->userdata('isUserLoggedIn')){ ?>
+												<a href="/dashboard" class="always_green" data-toggle="modal" data-target="#call-back">
+													<div class="navbar_btn">
+														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
+														<span>Account</span>
+														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
+													</div>
+												</a>
+											<?php } else{ ?>
 												<a href="/register">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
@@ -181,6 +190,7 @@
 														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
+												<?php } ?>
 											</li>
 											<li>
 											<?php if($this->session->userdata('isUserLoggedIn')){ ?>
