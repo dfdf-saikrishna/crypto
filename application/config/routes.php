@@ -58,6 +58,6 @@ $route['dashboard'] = "user/register/dashboard";
 $route['login'] = "user/login";
 $route['logout'] = "user/register/logout";
 $route['About'] = "user/about";
-$route['Whoweare'] = "user/whoweare";
+$route['WhoWeAre'] = "user/whoweare";
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
