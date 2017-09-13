@@ -138,4 +138,16 @@ class Register extends MX_Controller {
             return TRUE;
         }
     }
+	/*
+     * User logout
+     */
+    public function logout(){
+        $this->session->unset_userdata('isUserLoggedIn');
+        $this->session->unset_userdata('userId');
+        $this->session->sess_destroy();
+        //load the view
+		$this->load->view('header');
+        $this->load->view('login');
+		$this->load->view('footer');
+    }
 }

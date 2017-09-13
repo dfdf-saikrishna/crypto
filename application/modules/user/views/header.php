@@ -185,6 +185,15 @@
 												</a>
 											</li>
 											<li>
+											<?php if($this->session->userdata('isUserLoggedIn')){ ?>
+												<a href="/logout" class="always_green" data-toggle="modal" data-target="#call-back">
+													<div class="navbar_btn">
+														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
+														<span>CLIENT LOGOUT</span>
+														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
+													</div>
+												</a>
+											<?php } else{ ?>
 												<a href="/login" class="always_green" data-toggle="modal" data-target="#call-back">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
@@ -192,6 +201,7 @@
 														<img src="assets/img/right-vens.png" class="right-vens" alt="Responsive image">
 													</div>
 												</a>
+											<?php } ?>
 											</li>
 											</ul>
 									</div>

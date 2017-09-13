@@ -56,5 +56,6 @@ $route['register_submit'] = "user/register/submit";
 $route['UserDashboard'] = "user/register/login";
 $route['dashboard'] = "user/register/dashboard";
 $route['login'] = "user/login";
+$route['logout'] = "user/register/logout";
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
