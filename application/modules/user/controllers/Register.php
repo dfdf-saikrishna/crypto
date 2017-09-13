@@ -41,7 +41,7 @@ class Register extends MX_Controller {
 	public function dashboard()
 	{
 		$this->load->view('header');
-		$this->load->view('dashbaord');
+		$this->load->view('dashboard');
 		$this->load->view('footer');
 	}
 	
@@ -72,9 +72,7 @@ class Register extends MX_Controller {
                 if($checkLogin){
                     $this->session->set_userdata('isUserLoggedIn',TRUE);
                     $this->session->set_userdata('userId',$checkLogin['id']);
-                    $this->load->view('header');
-					$this->load->view('dashboard', $data);
-					$this->load->view('footer');
+                    redirect('dashboard');
                 }else{
                     $data['error_msg'] = 'Wrong username or password, please try again.';
                 }
