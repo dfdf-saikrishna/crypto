@@ -114,7 +114,7 @@
 									<div class="col-xs-60">
 										<ul class="nav">
 											<li class='open_nav'>
-												<a href="#" class="dropdown-toggle always_orange" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+												<a href="/user" class="dropdown-toggle always_orange" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>MAIN INFO</span>
