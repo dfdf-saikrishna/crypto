@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class WhoWeAre extends MX_Controller {
+class Whoweare extends MX_Controller {
 
 	/**
 	 * Index Page for this controller.
