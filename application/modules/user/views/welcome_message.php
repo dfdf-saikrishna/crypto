@@ -4,7 +4,7 @@
 	  				<div class="col-xs-60">
 		  				<div class="promo_caption">
 								<img src="assets/img/promo-pattern-top.png" class="center-block" alt="Responsive image">
-		  					<h1 id='el7'>
+		  					<h1 id=''>
 									we hold great value
 									<span class="text_block">OVER OUR CUSTOMERS</span>
 		  					</h1>
@@ -238,19 +238,23 @@
 	  						<div class="border"></div>
 
 								<div class="row">
-									<div class="col-xs-30">
+									<div class="col-xs-60">
 
 										<div class="home_company home_info_box">
 											<h3>ABOUT THE COMPANY</h3>
 
 											<p class="text-justify">
-												CRYPTO 2 BANK is a global investment company founded and registered in the UK. We provide our services for use in different parts of the world. Anyone from any part of the world has equal opportunities and conditions to participate in the company’s program. Your needs and requirements determine how you participate. Our services may be of interest to entrepreneurs, corporations and ordinary individuals with no business experience. Our investment offers contribute towards capacity building for implementation of even the most ambitious plans. We’ve brought together a coherent team of true professionals who are well-versed on multiplying investment opportunities. The high level of professionalism and personal qualities of our employees have served as the foundation of our company's development and may become a basis for improvement in your wellbeing in areas of importance for you – thanks to the use of own potential in your best interest.<br>
-												<br>
-												Presently, we handle foreign exchange trading operations in the stock, currency and cryptocurrency exchanges. At the same time, the company is developing a promising area of business – investment and concessionary participation in development of gold deposits in some African countries.
+How does one make decisions about what stocks to buy, or when to sell? Most rely on tips of splits and acquisitions with recommendations and opinions from self-proclaimed market experts. Crypto 2 Bank offers a fixed process on determined returns from a serious, disciplined approach to trading, trend-following, and market-timing with confirmed accuracy.</p><br>
+<p class="text-justify">Those among us that don&rsquo;t understand crypto space or the underlying technology that is revolutionising everything known about finance and value storage are starting to realise that they control their own wealth.</p><br>
+<p class="text-justify">Crypto systems and methods offer a continuously proven alternative to the traditional institutional methods, ultimately placing the individual in control.</p><br>
+<p class="text-justify">Crypto 2 Bank is a prudently managed e investment arm of Crypto banks that have been established to facilitate effective and steady return on investments to vested clients across the Globe soldered to cross-border empowerments of implementation solutions in today&rsquo;s environment.<br><br>
+We are one of just fifteen banks internationally that have been authorized to devote a parcel of our remittals towards quick repayments based on hedging activities conducted by our administrative in house agencies that offer insight, advice and recommendations on the rapidly growing crypto currency market.   <br><br>
+Over the years, we have engaged in profitable market wide hedging on our revenue base as a source of external trade, participating in collaborations with funds entrusted to us. We have, through all, continued to protect deposits and provide great service, all while positively continuing to serve as a qualitative option for those that invest with us in the growing communities we operate in. <br><br>
+
 											</p>
 
 											<div class="tools_sign_link">
-												<a href="index3898.html?a=cust&amp;page=about">
+												<a href="#">
 													read more
 													<span>
 														<img src="assets/img/green-arrow.png" alt="Responsive image">
@@ -261,37 +265,7 @@
 
 									</div>
 
-									<div class="col-xs-30">
-
-										<div class="home_news home_info_box">
-											<h3>LATEST NEWS</h3>
-														<p>
-												THE ANNIVERSARY OF TWO YEARS ONLINE!
-											</p>
-
-											<p>
-												Dear Friends, we are glad to inform you that today, our website AURUM-BANK.COM is TWO YEARS ONLINE! This day is happiest for all of us , and with all our hearts we wish you Love, Harmony and Prosperity! 
-<br>
-<br>For two years AURUM-BANK.COM makes every single client successful, happy and rich, and  it's a great honor and joy for us to make your lives happy and  prosperous!
-											</p>
-
-											<p>
-												<span class="text_block">Faithfully Yours,</span>
-												<span class="text_block">Aurum Bank Team</span>
-												<span class="text_block">Apr-30-2017 08:56:47 AM</span>
-											</p>
-
-											<div class="tools_sign_link">
-												<a href="index56ca.html?a=news">
-													read more
-													<span>
-														<img src="assets/img/green-arrow.png" alt="Responsive image">
-													</span>
-												</a>
-											</div>
-											</div>
-
-									</div>
+									
 								</div>
 	  					</div>
 	  				</div>
@@ -299,7 +273,7 @@
 				</div>
 			</div>
 
-			<div id="home_testimonials">
+			<!--div id="home_testimonials">
 				<img src="assets/img/logos-line.png" class="top_logos_line home_line" alt="Responsive image">
 				<div class="block_title border_none">
 					<h2>
@@ -320,7 +294,7 @@
 	  				</div>
 	  			</div>
 				</div>
-			</div>
+			</div-->
 
 			<div id="home_video">
 				
@@ -372,7 +346,10 @@
 
 
 							<div class="graf_line">
-									<marquee behavior="scroll" direction="left" scrollamount="5s" id='forex'></marquee>
+							
+									<marquee behavior="scroll" direction="left" scrollamount="5s" id='forex'>
+									
+									</marquee>
 							</div> 
 						</div>
 					</div>

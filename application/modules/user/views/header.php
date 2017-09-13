@@ -80,7 +80,7 @@
 										</div>
 			  					</div>
 
-			  					<a href='' class="head_logo"></a>
+			  					<a href='/user' class="head_logo"></a>
 
 			  					<div class="head_right">
 <!--										<div class="musik">
@@ -97,7 +97,7 @@
 										</div-->
 											<div class="site_stat">
 											<img src="assets/img/header/calend-icon.png" class="pull-left" alt="Responsive image">
-											SITE OPENED: 2017 / DAYS ONLINE: 001
+											SITE OPENED: 09 SEP 2017 / DAYS ONLINE
 											<span class="head_border"></span>
 										</div>
 			  					</div>
