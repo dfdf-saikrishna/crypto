@@ -19,7 +19,7 @@
 					
 
 	
-					<div id="site_info_stat">
+					<!--div id="site_info_stat">
 
 						<div class="site_line">
 
@@ -35,7 +35,7 @@
 
 						<img src="assets/img/logos-line.png" class="bottom_logos_line" alt="Responsive image">
 
-					</div>
+					</div-->
 
 	
 	
