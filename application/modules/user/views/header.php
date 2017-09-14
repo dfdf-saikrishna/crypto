@@ -139,6 +139,7 @@
 												<ul class="dropdown-menu" aria-labelledby="dropdownMenu3">
 											    <li><a href="/About"><span>About the Company</span></a></li>
 											    <li><a href="/Whoweare"><span>Who We Are</span></a></li>
+												<li><a href="/Licence"><span>Licence</span></a></li>
 											  </ul>
 											</li>
 											<li class='open_nav'>
