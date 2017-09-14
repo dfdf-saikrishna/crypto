@@ -125,7 +125,7 @@
 													<img src="assets/img/map-icon.png" alt="Responsive image">													 
 													DUCAN WADI, GULALWADI, MAULANA AZAD ROAD 
 													MUMBAI MAHARASHTRA.<br>
-													Tel: +16316333409
+													<i class="fa fa-whatsapp" aria-hidden="true" style="color:333;"></i> +16316333409
 
 												</li>
 
