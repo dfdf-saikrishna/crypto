@@ -13,6 +13,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/fonts.css" rel="stylesheet">
     <link href="assets/css/styleb3c5.css?1023606281" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -42,7 +43,7 @@
 											<div class="col-xs-27">
 												<div class="soc_box">
 													<div class="title">
-														info@crypto2bank.com
+														<i class="fa fa-whatsapp" aria-hidden="true"></i> &nbsp; +16316333409
 													</div>
 												</div>
 											</div>
@@ -67,11 +68,6 @@
 														<li>
 															<a href="#" target="blank">
 																<img src="assets/img/header/google.png" class="soc_icon center-block" alt="Responsive image">
-															</a>
-														</li>
-														<li>
-															<a href="#" target="blank">
-																<img src="assets/img/header/vk.png" class="soc_icon center-block" alt="Responsive image">
 															</a>
 														</li>
 													</ul>
