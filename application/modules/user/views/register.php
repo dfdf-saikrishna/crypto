@@ -48,7 +48,7 @@
 													</div>
 												</div>
 												<div class="form-group">
-													<label>Phone/Whatsapp</label>
+													<label>Whatsapp</label>
 													<input type="text" name="phone" class="form-control" value="<?php echo !empty($user['phone'])?$user['phone']:''; ?>">
 													<?php echo form_error('phone','<span class="help-block">','</span>'); ?>
 												</div>
