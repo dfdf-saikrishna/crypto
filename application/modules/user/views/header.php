@@ -43,7 +43,7 @@
 											<div class="col-xs-27">
 												<div class="soc_box">
 													<div class="title">
-														<i class="fa fa-whatsapp" aria-hidden="true"></i> &nbsp; +16316333409
+														<i class="fa fa-whatsapp" aria-hidden="true"></i>  +16316333409
 													</div>
 												</div>
 											</div>
