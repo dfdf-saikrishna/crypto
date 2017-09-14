@@ -76,7 +76,7 @@
 										</div>
 			  					</div>
 
-			  					<a href='/user' class="head_logo"></a>
+			  					<a href='http://www.crypto2bank.com' class="head_logo"></a>
 
 			  					<div class="head_right">
 <!--										<div class="musik">
@@ -110,7 +110,7 @@
 									<div class="col-xs-60">
 										<ul class="nav">
 											<li class='open_nav'>
-												<a href="/user" class="dropdown-toggle always_orange" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+												<a href="http://www.crypto2bank.com" class="dropdown-toggle always_orange" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>Home</span>
