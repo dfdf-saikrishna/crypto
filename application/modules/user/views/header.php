@@ -180,7 +180,7 @@
 													</div>
 												</a>
 											<?php } else{ ?>
-												<a href="/register">
+												<a href="http://secure.crypto2bank.com" target="_blank">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>SIGN UP</span>
@@ -199,7 +199,7 @@
 													</div>
 												</a>
 											<?php } else{ ?>
-												<a href="/login" class="always_green" data-toggle="modal" data-target="#call-back">
+												<a href="http://secure.crypto2bank.com" target="_blank" class="always_green" data-toggle="modal" data-target="#call-back">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>CLIENT LOGIN</span>
