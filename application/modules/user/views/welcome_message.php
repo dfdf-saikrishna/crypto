@@ -274,6 +274,133 @@ font-size:40px;
 													</div>
 									</div>
 								</div>
+								
+								
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												CRYPTO 1
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 2500</strong></li>
+												<li>Daily : <strong>4%</strong></li>
+												<li>Total : <strong>120%</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>3.0%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													4<span>%</span>
+												</div>
+												<div class="persen_box">
+													 30 days
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
+								
+								
+								
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												CRYPTO 2
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 5000</strong></li>
+												<li>Daily : <strong>4.5%</strong></li>
+												<li>Total : <strong>135%</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>3.5%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													4.5<span>%</span>
+												</div>
+												<div class="persen_box">
+													 30 days
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
+								
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												CRYPTO 3
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 7500</strong></li>
+												<li>Daily : <strong>5%</strong></li>
+												<li>Total : <strong>150%</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>4.0%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													5<span>%</span>
+												</div>
+												<div class="persen_box">
+													 30 days
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
+								
+								<div class="col-md-15">
+									<div class="inv_box_bg">
+										<div class="inv_box">
+											<div class="title">
+												CRYPTO 4
+											</div>
+											<img src="assets/img/pattern-inv.png" class="center-block" alt="Responsive image">
+											<ul class="list-unstyled">
+												<li>Investment : <strong>USD 10,000</strong></li>
+												<li>Daily : <strong>5.5%</strong></li>
+												<li>Total : <strong>165%</strong></li>
+												<li>Withdrawal : <strong>DAILY</strong></li>
+												<li>Sponsoring : <strong>5%</strong></li>
+											</ul>
+
+											<div class="persents">
+												<div class="persen_box">
+													Daily												</div>
+												<div class="persen_box">
+													5.5<span>%</span>
+												</div>
+												<div class="persen_box">
+													 30 days
+												</div>
+											</div>
+
+														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+													</div>
+									</div>
+								</div>
 
 								
 						
