@@ -154,11 +154,10 @@
 												<li><a href="/About">About Us</a></li>
 
 												<li><a href="/Terms">Terms &amp; Conditions</a></li>
+												
+												<li><a href="/Privacy">Privacy Policy</a></li>
 
 												<li><a href="/Contact">Contacts</a></li>
-
-	
-												<li><a href="">Sign up</a></li>
 
 	
 											</ul>

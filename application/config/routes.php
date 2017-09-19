@@ -59,6 +59,7 @@ $route['logout'] = "user/register/logout";
 $route['About'] = "user/about";
 $route['Whoweare'] = "user/whoweare";
 $route['Faq'] = "user/faq";
+$route['Privacy'] = "user/privacy";
 $route['Terms'] = "user/terms";
 $route['Contact'] = "user/contact";
 $route['Licence'] = "user/licence";
