@@ -13,8 +13,8 @@
 											<div class="block_title border_none">
 												<h2>
 													<img src="assets/img/title-img-left.png" class="title-img-left" alt="Responsive image">
-													FAQ
-													<span>Frequently Asked Questions</span>
+													About
+													<span>the Company</span>
 													<img src="assets/img/title-img-right.png" class="title-img-right" alt="Responsive image">
 												</h2>
 											</div>

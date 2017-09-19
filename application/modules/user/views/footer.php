@@ -149,16 +149,16 @@
 
 											<ul class="list-unstyled">
 
-												<li><a href="indexbc14.html?a=home">Home</a></li>
+												<li><a href="http://crypto2bank.com">Home</a></li>
 
-												<li><a href="index3898.html?a=cust&amp;page=about">About Us</a></li>
+												<li><a href="/About">About Us</a></li>
 
-												<li><a href="indexf17b.html?a=cust&amp;page=offers">Investments</a></li>
+												<li><a href="/Terms">Terms &amp; Conditions</a></li>
 
-												<li><a href="index15a0.html?a=support">Contacts</a></li>
+												<li><a href="/Contact">Contacts</a></li>
 
 	
-												<li><a href="indexcca3.html?a=signup">Sign up</a></li>
+												<li><a href="">Sign up</a></li>
 
 	
 											</ul>

@@ -106,7 +106,7 @@ font-size:40px;
 							
 		  					<img src="assets/img/promo-pattern-bottom.png" class="center-block" alt="Responsive image">
 
-									<a href="/register" class="btn btn_green center-block" data-toggle="modal" data-target="#call-back">REGISTRATION</a>
+									<a href="http://secure.crypto2bank.com" target="_blank" class="btn btn_green center-block" data-toggle="modal" data-target="#call-back">REGISTRATION</a>
 				  				</div>
 	  				</div>
 	  			</div>
@@ -149,7 +149,7 @@ font-size:40px;
 												<li>Total : <strong>137.5%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>10%</strong></li>
-												<li>Sponsoring Level Bonus : <strong>0.5%</strong></li>
+												<li>Sponsoring Level 1 : <strong>0.5%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -164,7 +164,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -186,6 +186,7 @@ font-size:40px;
 												<li>Total : <strong>157.5%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>11%</strong></li>
+												<li>Sponsoring Level 1 : <strong>1%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -200,7 +201,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -222,6 +223,7 @@ font-size:40px;
 												<li>Total : <strong>166.25%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>12%</strong></li>
+												<li>Sponsoring Level 1 : <strong>1.5%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -236,7 +238,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -258,6 +260,7 @@ font-size:40px;
 												<li>Total : <strong>170%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>13%</strong></li>
+												<li>Sponsoring Level 1 : <strong>2%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -271,7 +274,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -290,6 +293,7 @@ font-size:40px;
 												<li>Total : <strong>120%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>3.0%</strong></li>
+												<li>Sponsoring Level 1 : <strong>0.5%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -303,7 +307,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -323,6 +327,7 @@ font-size:40px;
 												<li>Total : <strong>135%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>3.5%</strong></li>
+												<li>Sponsoring Level 1 : <strong>1%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -336,7 +341,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -354,6 +359,7 @@ font-size:40px;
 												<li>Total : <strong>150%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>4.0%</strong></li>
+												<li>Sponsoring Level 1 : <strong>1.5%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -367,7 +373,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>
@@ -385,6 +391,7 @@ font-size:40px;
 												<li>Total : <strong>165%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>5%</strong></li>
+												<li>Sponsoring Level 1 : <strong>2%</strong></li>
 											</ul>
 
 											<div class="persents">
@@ -398,7 +405,7 @@ font-size:40px;
 												</div>
 											</div>
 
-														<a href="#" data-toggle="modal" data-target="#call-back">choose</a>
+														<!--a href="#" data-toggle="modal" data-target="#call-back">choose</a-->
 													</div>
 									</div>
 								</div>

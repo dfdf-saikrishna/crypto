@@ -180,7 +180,7 @@
 													</div>
 												</a>
 											<?php } else{ ?>
-												<a href="http://secure.crypto2bank.com">
+												<a href="/faq">
 													<div class="navbar_btn">
 														<img src="assets/img/left-vens.png" class="left-vens" alt="Responsive image">
 														<span>FAQ's</span>

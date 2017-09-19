@@ -5034,13 +5034,14 @@ img#plax-sphere-5 {
 	font-size: 14px;
 	padding: 5px 0;
 	height: 26px;
+	color:#f76f14;
 }
 .inv_box ul {
 	text-align: center;
 	overflow: hidden;
 	max-width: 173px;
 	margin: 0 auto;
-	height: 120px;
+	height: 110px;
 }
 .inv_box ul li {
 	line-height: 17px;
