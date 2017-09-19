@@ -149,6 +149,7 @@ font-size:40px;
 												<li>Total : <strong>137.5%</strong></li>
 												<li>Withdrawal : <strong>DAILY</strong></li>
 												<li>Sponsoring : <strong>10%</strong></li>
+												<li>Sponsoring Level Bonus : <strong>0.5%</strong></li>
 											</ul>
 
 											<div class="persents">
